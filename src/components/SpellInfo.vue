@@ -11,7 +11,7 @@
           </div>
         </div>
         <div class="q-mr-md">
-          <q-btn
+          <!-- <q-btn
             ripple
             color="red-7"
             round
@@ -20,7 +20,7 @@
             @click="saveToFavorites"
             @mouseenter="btnHover = true"
             @mouseleave="btnHover = false"
-          />
+          /> -->
         </div>
       </div>
 

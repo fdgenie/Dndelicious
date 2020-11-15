@@ -26,7 +26,7 @@
 
         <q-toolbar-title>Dndelicious</q-toolbar-title>
 
-        <q-btn flat round dense icon="mdi-account" to="/user" />
+        <!-- <q-btn flat round dense icon="mdi-account" to="/user" /> -->
       </q-toolbar>
     </q-header>
 
