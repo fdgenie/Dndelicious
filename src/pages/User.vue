@@ -1,7 +1,7 @@
 <template>
   <div class="q-pa-md">
     <div class="flex justify-center text-h5 text-weight-bold">Welcome User</div>
-    <div class="flex justify-center text-subtitle2">Here you can see all your favorites choises</div>
+    <div class="flex justify-center text-subtitle2">Here you can see all your favorites choices</div>
 
     <q-card flat bordered class="my-card bg-grey-1 q-ma-md">
 
